@@ -1,8 +1,6 @@
 # `test-driver-crate-example`
 
-Example of testing a driver crate using mocks and `defmt-test` tests.
-
-> TODO add link to blog post when it's live
+Example of testing a driver crate using mocks and `defmt-test`. [Check out the associated blog post here!](https://ferrous-systems.com/blog/test-driver-crate/).
 
 ## License
 
